@@ -1,0 +1,9 @@
+C:\Users\ivano\Source\Repos\Snyk\SnykDemo\SnykDemoWinForm\bin\Debug\SnykDemoWinForm.exe.config
+C:\Users\ivano\Source\Repos\Snyk\SnykDemo\SnykDemoWinForm\bin\Debug\SnykDemoWinForm.exe
+C:\Users\ivano\Source\Repos\Snyk\SnykDemo\SnykDemoWinForm\bin\Debug\SnykDemoWinForm.pdb
+C:\Users\ivano\Source\Repos\Snyk\SnykDemo\SnykDemoWinForm\obj\Debug\SnykDemoWinForm.Form1.resources
+C:\Users\ivano\Source\Repos\Snyk\SnykDemo\SnykDemoWinForm\obj\Debug\SnykDemoWinForm.Properties.Resources.resources
+C:\Users\ivano\Source\Repos\Snyk\SnykDemo\SnykDemoWinForm\obj\Debug\SnykDemoWinForm.csproj.GenerateResource.cache
+C:\Users\ivano\Source\Repos\Snyk\SnykDemo\SnykDemoWinForm\obj\Debug\SnykDemoWinForm.csproj.CoreCompileInputs.cache
+C:\Users\ivano\Source\Repos\Snyk\SnykDemo\SnykDemoWinForm\obj\Debug\SnykDemoWinForm.exe
+C:\Users\ivano\Source\Repos\Snyk\SnykDemo\SnykDemoWinForm\obj\Debug\SnykDemoWinForm.pdb
